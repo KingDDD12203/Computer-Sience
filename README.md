@@ -1,2 +1,2 @@
-# Computer-Sience
+# Computer-Science
 trial run
